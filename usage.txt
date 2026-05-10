@@ -1,0 +1,9 @@
+1.- run start.bat or open the cmd and run python ObfuscatorV2.py (you need to have Python installed but i think this is obviusly lol).
+
+2.- put the path of the file you want to obfuscate.
+
+3.- put the name of the obfuscated output file.
+
+4.- done! ur source code is absolutely unreadable now.
+
+btw feel free to change variable names and edit the obfuscator source, idc about this project anymore lol.
